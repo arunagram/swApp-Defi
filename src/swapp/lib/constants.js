@@ -55,6 +55,19 @@ export const supportedPools = [
     symbol: 'SWAPP-ETH SLP',
     tokenSymbol: 'SWAPP',
     icon: '💎',
+  },
+   {
+    pid: 1,
+    lpAddresses: {
+      3: '0xA469F2A2CbEf2aD4C021A04Ff3ab91c963aebFD0',
+    },
+    tokenAddresses: {
+      3: '0x3Fe00f043B2B3aD0D0E80C98144794D59a8B8873',
+    },
+    name: 'Swapp Hard 5SWAPPERBLOCK!',
+    symbol: 'SWAPP-ETH SLP',
+    tokenSymbol: 'SWAPP',
+    icon: '💎',
   }
   
 ]
